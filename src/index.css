@@ -1,0 +1,19 @@
+@font-face {
+  font-family: fifa2018;
+  src: url("./fonts/fifa2018.ttf");
+}
+
+* {
+  box-sizing: border-box;
+  font-family: fifa2018;
+}
+
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}

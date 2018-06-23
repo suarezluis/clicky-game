@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/argentina.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/brazil.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/croatia.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/england.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/france.jpg",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/germany.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/iceland.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/mexico.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/portugal.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/russia.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/spain.jpg",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/uruguay.jpg",
+    "clicked": false
+  }
+]
