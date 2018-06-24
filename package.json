@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://Adancode.github.io/clicky-game-deployment-test",
+  "homepage": "https://suarezluis.github.io/clicky-game",
   "dependencies": {
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
